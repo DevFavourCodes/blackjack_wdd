@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
+
+body {
+    font-family: "Poppins", sans-serif;
+    background-image: url("blackjacktable.jpg");
+    background-size: cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    margin-left: 15em;
+}
+
+#message-el {
+    font-style: italic;
+    margin-left: 30em;
+}
+
+#cards-el {
+    margin-left: 30em;
+}
+
+#sum-el {
+    margin-left: 30em;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    margin-right: -18.5em;
+    margin-left: 18.5em;
+}
+
+p {
+    margin-left: 31em;  
+}
